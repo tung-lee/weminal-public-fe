@@ -22,9 +22,14 @@ export const App = () => {
                 <div className="relative w-fit mt-[-1.00px] font-big-text font-[number:var(--big-text-font-weight)] text-[#ffffff] text-[length:var(--big-text-font-size)] tracking-[var(--big-text-letter-spacing)] leading-[var(--big-text-line-height)] [font-style:var(--big-text-font-style)]">
                   Vision And Mission
                 </div>
-                <div className="relative w-fit mt-[-1.00px] font-big-text font-[number:var(--big-text-font-weight)] text-[#ffffff] text-[length:var(--big-text-font-size)] tracking-[var(--big-text-letter-spacing)] leading-[var(--big-text-line-height)] [font-style:var(--big-text-font-style)]">
+                <a
+                  href="https://github.com/tung-lee/owallet-chatbot"
+                  target="_blank"
+                  className="relative w-fit mt-[-1.00px] font-big-text font-[number:var(--big-text-font-weight)] text-[#ffffff] text-[length:var(--big-text-font-size)] tracking-[var(--big-text-letter-spacing)] leading-[var(--big-text-line-height)] [font-style:var(--big-text-font-style)] no-underline"
+                  rel="noreferrer"
+                >
                   Install
-                </div>
+                </a>
                 <div className="relative w-fit mt-[-1.00px] font-big-text font-[number:var(--big-text-font-weight)] text-[#ffffff] text-[length:var(--big-text-font-size)] tracking-[var(--big-text-letter-spacing)] leading-[var(--big-text-line-height)] [font-style:var(--big-text-font-style)]">
                   Chatbot
                 </div>
@@ -98,11 +103,16 @@ export const App = () => {
               </div>
               <div className="inline-flex items-start gap-[45px] relative flex-[0_0_auto]">
                 <div className="inline-flex flex-col items-center justify-center gap-[39px] relative flex-[0_0_auto]">
-                  <div className="inline-flex items-center justify-center gap-[10px] px-[40px] py-[24px] relative flex-[0_0_auto] bg-[#613ec8] rounded-[12px]">
-                    <div className="relative w-fit mt-[-1.00px] [font-family:'Lexend_Deca-Regular',Helvetica] font-normal text-[#ffffff] text-[24px] tracking-[0] leading-[normal]">
+                  <a
+                    href="https://github.com/tung-lee/owallet-chatbot"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="inline-flex items-center justify-center gap-[10px] px-[40px] py-[24px] relative flex-[0_0_auto] bg-[#613ec8] rounded-[12px] no-underline"
+                  >
+                    <p className="relative w-fit mt-[-1.00px] [font-family:'Lexend_Deca-Regular',Helvetica] font-normal text-[#ffffff] text-[24px] tracking-[0] leading-[normal]">
                       Install Now
-                    </div>
-                  </div>
+                    </p>
+                  </a>
                 </div>
               </div>
             </div>
