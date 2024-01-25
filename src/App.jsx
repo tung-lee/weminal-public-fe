@@ -23,7 +23,7 @@ export const App = () => {
                   Vision And Mission
                 </div>
                 <a
-                  href="https://github.com/tung-lee/owallet-chatbot"
+                  href="https://github.com/tung-lee/owallet-chatbot/releases/tag/v1.0.0"
                   target="_blank"
                   className="relative w-fit mt-[-1.00px] font-big-text font-[number:var(--big-text-font-weight)] text-[#ffffff] text-[length:var(--big-text-font-size)] tracking-[var(--big-text-letter-spacing)] leading-[var(--big-text-line-height)] [font-style:var(--big-text-font-style)] no-underline"
                   rel="noreferrer"
@@ -104,7 +104,7 @@ export const App = () => {
               <div className="inline-flex items-start gap-[45px] relative flex-[0_0_auto]">
                 <div className="inline-flex flex-col items-center justify-center gap-[39px] relative flex-[0_0_auto]">
                   <a
-                    href="https://github.com/tung-lee/owallet-chatbot"
+                    href="https://github.com/tung-lee/owallet-chatbot/releases/tag/v1.0.0"
                     target="_blank"
                     rel="noreferrer"
                     className="inline-flex items-center justify-center gap-[10px] px-[40px] py-[24px] relative flex-[0_0_auto] bg-[#613ec8] rounded-[12px] no-underline"
